@@ -20,3 +20,5 @@ with ui.nav_panel("Table"):
     @render.data_frame
     def table():
         return tips[[input.var()]]
+
+a ="Just checking"
