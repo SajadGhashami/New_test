@@ -23,3 +23,4 @@ with ui.nav_panel("Table"):
 
 a ="Just checking"
 b= "another check"
+c= "1"
