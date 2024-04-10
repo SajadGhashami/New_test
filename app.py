@@ -22,3 +22,4 @@ with ui.nav_panel("Table"):
         return tips[[input.var()]]
 
 a ="Just checking"
+b= "another check"
